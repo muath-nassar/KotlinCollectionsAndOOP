@@ -1,0 +1,21 @@
+
+*************LAB1*****************
+
+1- Convert F temp to C temp (Student Task)
+2- Convert angles, radians to degrees (Student Task)
+2- factorial code like x! (Student Task)
+
+*************LAB2*****************
+1- fun minMax(numbers: Array<Int>): Pair<Int, Int>? (Teacher Task)
+2- fun remove(item: Int, list: List<Int>): List<Int> (Student Task)
+3- fun Create a Student class, demonstrating primary, and secondary constructor
+also, init block with companion object   (Teacher Task)
+4- Create a class for cylinder (radius , height)
+        calculate  base area, and volume
+        create a primary constructor with only "radius"
+        create a secondary constructor with "radius" and "height"
+        declare a static property indicates how many cylinders
+         have been created
+        also, when a cylinder object is created print
+        "a cylinder with base radius = ___ cm,
+        has been created"(Student Task)
